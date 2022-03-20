@@ -1,0 +1,1 @@
+baru belajar inheritence dan abstract class
